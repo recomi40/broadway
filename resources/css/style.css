@@ -1,13 +1,15 @@
 html{
   text-align: center;
 }
-  
-}
 h1{
   font-family: Helvetica;
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+p{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  text-decoration: underline;
 }
 li{
   font-family: Helvetica;
@@ -24,9 +26,6 @@ h3{
   font-size: 23px;
   font-weight: bold;
   }
-
-
-
   footer{
     font-family: Helvetica;
     font-size: 11px;
