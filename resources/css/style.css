@@ -1,5 +1,7 @@
-body{
+html{
   text-align: center;
+}
+  
 }
 h1{
   font-family: Helvetica;
@@ -30,5 +32,4 @@ h3{
     font-size: 11px;
     color: white;
     background-color: dimgray;
-    text-align: left;
   }
